@@ -11,4 +11,4 @@
 ## assets/data holds the data set in data.csv
 ## assets/js holds .eslintrc.json and app.js, the latter of which runs the javascript code that contains the visualization
 ## Running
-## Due to loading in a csv file, many browsers will fail to load this unless run on an http server. This project was developed with the python -m http.server method.
+Due to loading in a csv file, many browsers will fail to load this unless it is running on an http server. This project was developed with the python -m http.server method.
