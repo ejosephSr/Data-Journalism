@@ -4,11 +4,7 @@
 
 ![](Images/d3.png)
 
-## File Structure
-## The base webpage template is index.html.
-## The assets folder contains everything else of relevance
-## assets/css holds two styling files, styles.css and d3style.css
-## assets/data holds the data set in data.csv
-## assets/js holds .eslintrc.json and app.js, the latter of which runs the javascript code that contains the visualization
-## Running
-Due to loading in a csv file, many browsers will fail to load this unless it is running on an http server. This project was developed with the python -m http.server method.
+
+## Running the visualization:
+
+Due to loading in a csv file, many browsers will fail to load this unless it is running on an http server. This project was developed to run with the visual Studion Code live Server.
